@@ -1,2 +1,3 @@
 Notion:
 General-purpose Knowledge Management: Notion is a more versatile, all-in-one workspace that can be used for project management, note-taking, databases, task tracking, and more. It's not specifically tied to software development.
+Focus: Notion is great for team collaboration, personal notes, knowledge base creation, and organizing content across multiple catego
